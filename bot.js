@@ -1,4 +1,4 @@
-// Discord.js
+// Discord.js -> à telecharger
 var Discord = require("discord.js");
 //require("node-opus");
 require("opusscript");
